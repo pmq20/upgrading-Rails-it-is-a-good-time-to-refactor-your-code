@@ -1,9 +1,8 @@
 ---
-id: tracing-a-memory-leak-in-a-long-running-eventmachine-application-en
-base_name: tracing-a-memory-leak-in-a-long-running-eventmachine-application
+id: upgrading-Rails-it-is-a-good-time-to-refactor-your-code-en
+base_name: upgrading-Rails-it-is-a-good-time-to-refactor-your-code
 tags:
-- eventmachine
-- memory-leak
+- rails
 presentation_date:
 version: 1.0.0
 licenses: []
