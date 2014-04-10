@@ -41,6 +41,7 @@ theme
 * Density of Comments
 * Cyclomatic complexity
 * Static code analyzer
+* Commit messages
 
 # Community Guidelines
 * ruby-style-guide
@@ -78,6 +79,9 @@ $$
 # Static code analyzer (1)
 * rubocop
 * gem install rubocop
+
+# Commit messages
+* see git
 
 # Download the slides
 
