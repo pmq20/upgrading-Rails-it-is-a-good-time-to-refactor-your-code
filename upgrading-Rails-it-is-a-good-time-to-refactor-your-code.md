@@ -79,4 +79,6 @@ $$
 * rubocop
 * gem install rubocop
 
+# Download the slides
 
+![](github.png "https://github.com/pmq20"){:width='440' height='358'}
